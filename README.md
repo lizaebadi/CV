@@ -18,15 +18,32 @@ With a strong work ethic, excellent problem-solving abilities, and a natural inc
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Day Cooper Day** (July 2017 to December 2022)  
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+_Account Manager | December 2019 to December 2022_
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+- Constantly increasing my client book by maintaining long-term relationships with clients, financial advisors and solicitors. Resulted in managing the most pension schemes of any Account Manager in the company and maximising the turnaround of new clients joining. 
+- Suggesting ideas and collaborating to encourage more efficient processes. I produced a checklist for investment information which allows internal teams to easily analyse the data, this has been implemented company wide. 
+- Taking part in management training and implementing strategies in practice with the 2 individuals I am line managing i.e. goal setting, reviews, technical knowledge training on pensions etc. 
+- Monitoring team performance and accuracy by delegating tasks to support my team with workload and manage multiple priorities ensuring both individual and team deadlines are met. My team completed annual calculation reviews for clients a month earlier than other teams, greatly exceeding targets. 
+- Point of contact for technical queries. I have expertise in pension assets and calculations and have become one of the company’s main point of contact for niche investments and complex calculations. 
+- Continuing tasks undertaken as a Senior Administrator.
 
-- Any experience relevent to software development
+
+
+_Senior Pension Administrator | July 2018 to December 2019_
+
+- Responsible for performing and checking all financial transaction within the team such as aspects of withdrawal, fund valuations and pension reviews. 
+- Trained and managed a junior member of the team. To do this successfully, I organised and ran regular monthly performance review meetings. 
+- Attended client meetings with potential new clients and existing.
+- Organised team building and mentoring sessions. 
+
+
+
+_Pension Administrator | July 2017 to July 2018_ 
+
+- Worked to regular tight deadlines in a high pressure environment dealing with client queries and seeing them through to resolution.
+- Direct contact with high net worth individuals and professional clientele, ensuring that all project work was delivered, and performance standards were achieved.
 
 ## Skills
 
