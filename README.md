@@ -12,8 +12,9 @@ With a strong work ethic, excellent problem-solving abilities, and a natural inc
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **HackerRoom**               | An RPG learning game built to help the user learn Python. | JavaScript, React, Node.js, HTML/CSS |
+| **Bank** | A simple bank simulator to track deposits, withdrawal and account statement printing | JavaScript, Node.js, Jest    |
+| **Acebook** | Social media site inspired by Facebook. | MongoDB, Express, React, Node.js, Cypress |
 
 ## Work Experience
 
