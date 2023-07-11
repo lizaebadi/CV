@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=400&color=F7F7F7&center=true&width=435&lines=Hi+there!+I'm+Liza+Ebadi+;Explore+my+GitHub+CV+below)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=400&color=F7F7F7&center=true&width=1000&height=150&lines=Hi+there!+I'm+Liza+Ebadi;Explore+my+GitHub+CV+below)](https://git.io/typing-svg)
 
 ## About me 
 
