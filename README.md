@@ -1,8 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=400&color=F7F7F7&center=true&width=435&lines=Hi+there!+I'm+Liza+Ebadi+;Explore+my+GitHub+CV+below)](https://git.io/typing-svg)
 
-## Your Name
+## About me 
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+As a curious and proactive junior software engineer, I am driven by a passion for continuous improvement. With a background in pensions and starting at a fast paced start-up, I continued to grow rapidly with the company over the next 5 years. I have honed my communication skills through daily interactions with high net worth clients, various professionals and colleagues I managed.
+
+I highly value agile methodologies for their ability to deliver high-quality software efficiently. Proficient in OOP, TDD, paired programming, and agile practices, I am eager to apply my skills and curiosity to a role where I can write impactful code for meaningful programs.
+
+With a strong work ethic, excellent problem-solving abilities, and a natural inclination for learning, I am confident in my ability to contribute value to any team. I am excited about the prospect of joining a dynamic and forward-thinking team, where I can make a positive impact and continue to grow as a developer.
 
 ## Projects
 
