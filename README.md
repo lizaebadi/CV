@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=400&color=F7F7F7&center=true&width=435&lines=Hi+there!+I'm+Liza+Ebadi+;Explore+my+GitHub+CV+below)](https://git.io/typing-svg)
+
 ## Your Name
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
