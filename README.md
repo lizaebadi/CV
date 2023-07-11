@@ -68,25 +68,25 @@ During Makers, I would have to analyse information presented to me in order to d
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (January 2023 to May 2023)
+- Focus on OOP techniques and methodologies.
+- TDD, debugging and refactoring using multiple tech stacks with a focus on code quality and test coverage checks.
+- Cultivated a language-agnostic approach to programming, enabling me to quickly learn new languages as needed.
+- Databases using PostgreSQL and MongoDB.
+- Regular code reviews, pair programming and feedback.
+- Successful collaboration with team members in groups of 4-6 to build an Airbnb clone and a Facebook clone, requiring a commitment to problem solving, clear communication and empathy.
+- Focus on emotional intelligence throughout the bootcamp.
 
-#### Your University / College (start_date to end_date)
+#### University of Surrey, (2013 to 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Economics and Finance 
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Tennis
+- Rock climbing
+- Yoga
+- Cooking
+- Attending industry events
+- Videography/Photography
