@@ -47,24 +47,23 @@ _Pension Administrator | July 2017 to July 2018_
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
 #### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+Strong collaboration, teamwork and interpersonal skills at all levels with both clients and colleagues which has been demonstrated whilst leading monthly meetings for my colleagues and devising successful client meetings. 
 
-#### Another skill
+At Makers, I have had to utilise this skill to be able to effectively explain ideas and technical approaches whilst pair programming almost daily and during group projects. 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Adaptability 
 
-#### Another skill
+I am not afraid to take on new challenges, whether it be working in a different agile style or learnning new langages; during Makers I demonstrated a knack for swiftly adapting to new programming languages.
+
+At the start-up, the dynamic of the company was ever changing so I had to be able to change direction when needed, handle ambiguity and comminicate feedback regularly. 
+
+
+#### Analytical thinker 
+
+Able to brainstorm ideas and focus on addressing issues before they arise. When conducting new client meetings in my last role, I would assess the situation and client needs to design a personalised solution for them, often on the spot, to maximise their pension pot whilst using the most tax efficient processes for their limited company. 
+
+During Makers, I would have to analyse information presented to me in order to debug code or build according to the brief in the most accurate and efficient manner. 
 
 
 ## Education
